@@ -1,0 +1,59 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url('num.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#features {
+    background-image: url('i.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    text-align: center;
+    color: black;
+}
+
+#cta {
+    background-image: url('n.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px;
+    text-align: right;
+    color: black;
+}
+
+#contact {
+    background-image: url('to.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 20px;
+    text-align: left;
+    color: black;
+}
+
+form {
+     /* Add a semi-transparent background for better readability */
+    padding: 20px;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: black;
+    color:white;
+    padding: 2px;
+    text-align: center;
+}
